@@ -718,7 +718,7 @@ margin-left: 20px;
 
 /* Business Starter demo inner pag images */
 .sss-library-content-wrapper.sss-business-starter-demo .sss-content-section .sss-card .sss-starter-pack-inner-img{
-/*    background-image: url(blog/wp-content/plugins/spice-starter-sites/assets/images/demo_images/Service.jpg);*/
+/*    background-image: url(wp-content/plugins/spice-starter-sites/assets/images/demo_images/Service.jpg);*/
     transition: background-position 5s linear;
 }
 
@@ -944,7 +944,7 @@ body.admin_page_spice-settings-importer #wpbody-content {
     overflow: visible;
 }
 .sss-library-body-wrapper .sss-content-section.sss-starter-pack .sss-card.new:before{
-    content:url('blog/wp-content/plugins/spice-starter-sites/assets/images/new2.png');
+    content:url('wp-content/plugins/spice-starter-sites/assets/images/new2.png');
     position: absolute;
     top: 35px;
     right: -7px;
